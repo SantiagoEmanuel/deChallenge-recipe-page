@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,400;1,500;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+main {
+    width: 970px;
+    margin-top: 50px;
+}
+
+.presentation>div {
+    width: 599px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 45px;
+}
+
+.presentation>div>h1 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 63.98px;
+    font-family: 'Playfair Display', serif;
+}
+
+.presentation>div>p {
+    color: #4F4F4F;
+    display: flex;
+    align-items: start;
+    gap: 10px;
+    justify-content: start;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17.07px;
+    font-style: italic;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.presentation>div>p>img {
+    padding-top: 5px;
+}
+
+.presentation>img {
+    width: 969px;
+}
+
+.ingredients {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+section>h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.graham-cracker {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 22px;
+}
+
+.graham-cracker>h4 {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.graham-cracker>div {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.graham-cracker>div>p {
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    display: flex;
+    align-items: center;
+}
+
+.graham-cracker>div>p>input {
+    margin-right: 15px;
+    Width: 21px;
+    Height: 21px;
+    border-radius: 4px;
+    border: 1px solid #828282;
+}
+
+.graham-cracker>div>p>span {
+    font-family: 'Montserrat';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.cheesecake {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+}
+
+.cheesecake>h5 {
+    font-family: 'Playfair Display';
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.cheesecake>div {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.cheesecake>div>p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.cheesecake>div>p>span {
+    font-weight: 700;
+}
+
+.cheesecake>div>p>input {
+    margin-right: 15px;
+    Width: 21px;
+    Height: 21px;
+    border-radius: 4px;
+    border: 1px solid #828282;
+}
+
+.topping>p {
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    line-height: 22px;
+    display: inline;
+    align-items: center;
+}
+
+.topping>p>span {
+    line-height: 25px;
+    font-weight: 500;
+}
+
+.topping>p>input {
+    margin-right: 15px;
+    Width: 21px;
+    Height: 21px;
+    border-radius: 4px;
+    border: 1px solid #828282;
+}
