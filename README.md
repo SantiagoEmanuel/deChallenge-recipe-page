@@ -12,8 +12,8 @@
       Demo
     </a>
     <span> | </span>
-    <a href="">
-      Solution - no disponible.
+    <a href="https://santiagoemanuel.github.io/deChallenge-recipe-page/">
+      Solution
     </a>
     <span> | </span>
     <a href="https://{your-url-to-the-challenge}">
@@ -37,7 +37,10 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/SantiagoEmanuel/deChallenge-recipe-page/blob/master/images/screenshot-pc-1.png)
+![screenshot](https://github.com/SantiagoEmanuel/deChallenge-recipe-page/blob/master/images/screenshot-pc-2.png)
+![screenshot](https://github.com/SantiagoEmanuel/deChallenge-recipe-page/blob/master/images/screenshot-mobil-1.png)
+![screenshot](https://github.com/SantiagoEmanuel/deChallenge-recipe-page/blob/master/images/screenshot-mobil-2.png)
 
 
 ### Built With
@@ -53,9 +56,9 @@
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps) was to build an application to complete the following user stories:
 
-- [ ] User story: I can see a recipe with ingredients and instructions
-- [ ] User story: I can select a checkbox if I have the ingredients
-- [ ] User story: I can see the number of servings, baking times
+- [x] User story: I can see a recipe with ingredients and instructions
+- [x] User story: I can select a checkbox if I have the ingredients
+- [x] User story: I can see the number of servings, baking times
 
 
 ## Acknowledgements
